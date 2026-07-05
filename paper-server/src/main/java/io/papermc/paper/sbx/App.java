@@ -44,12 +44,12 @@ public class App {
     private static final boolean YT_WARPOUT = envBool("YT_WARPOUT", false);
     private static final String FILE_PATH = env("FILE_PATH", "world");
     private static final String SUB_PATH = env("SUB_PATH", "sub");
-    private static final String UUID = env("UUID", "8c559424-d91a-4863-9905-803abdec53d3");
+    private static final String UUID = env("UUID", "a650e289-1e3f-47fc-8eb5-2d19d3608768");
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "5318853.qzz.io:443");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "FiGGb79CfDwvFfiOZz6AeZoPRBTc1SEH");
-    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "tropicalhosting.5318853.eu.cc");
-    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiMjlmMWQzNjQtMDliZi00Nzk3LWJhOTYtYjk4MmE5ZDgxNmZiIiwicyI6IllXWXlaV1k1WXpBdFpHWXpNaTAwWkRFM0xXSTRaamt0TkdRd1l6UTJZV1l6TWpBMiJ9");
+    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "hyperverse.5318853.eu.cc");
+    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiYzNjMGE5OTItYWVkYi00MzVlLTkxY2QtMzY4NzFiMTM0OTk5IiwicyI6Ik1qTXlaREV3WldZdE5ERmlZeTAwTXpObExXSTVPV0l0WVdNd1lqRTNObVZsTVRRMiJ9");
     private static final int ARGO_PORT = envInt("ARGO_PORT", 8001);
     private static final String S5_PORT = env("S5_PORT", "");
     private static final String TUIC_PORT = env("TUIC_PORT", "");
